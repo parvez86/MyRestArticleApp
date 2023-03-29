@@ -19,6 +19,6 @@ Features
 [singnup_page]: https://github.com/parvez86/MyRestArticleApp/blob/master/Frontend/pic/signup.PNG
 [update_article]: https://github.com/parvez86/MyRestArticleApp/blob/master/Frontend/pic/update_article.PNG
 [after_update_article]: https://github.com/parvez86/MyRestArticleApp/blob/master/Frontend/pic/after_update_article.PNG
-[add_article]:  https://github.com/parvez86/MyRestArticleApp/blob/master/Frontend/pic/add%20article.PNG
-[after_add_article]:  https://github.com/parvez86/MyRestArticleApp/blob/master/Frontend/pic/add%20article.PNG
-[after_delete_article]:  https://github.com/parvez86/MyRestArticleApp/blob/master/Frontend/pic/add%20article.PNG
+[add_article]:  https://github.com/parvez86/MyRestArticleApp/blob/master/Frontend/pic/add_article.PNG
+[after_add_article]:  https://github.com/parvez86/MyRestArticleApp/blob/master/Frontend/pic/after_add_article.PNG
+[after_delete_article]:  https://github.com/parvez86/MyRestArticleApp/blob/master/Frontend/pic/after_delete_article.PNG
